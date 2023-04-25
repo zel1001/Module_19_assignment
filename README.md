@@ -1,2 +1,2 @@
 # Module_19_assignment
-Cryptocurrency based job hiring platform
+Cryptocurrency + Ethereum based online platform
